@@ -1,0 +1,182 @@
+Transaction_ID,Date,Category,Description,Amount_INR,Payment_Method,Needs
+TX0001,2025-11-24,Food,Campus Canteen,502.68,Cash,Need
+TX0002,2025-02-22,Entertainment,Cinema,1081.4,Net Banking,Want
+TX0003,2025-01-17,Food,Tea Point,204.62,Net Banking,Need
+TX0004,2025-10-15,Food,Tea Point,450.43,Credit Card,Need
+TX0005,2025-08-18,Bills,Electricity Board,1818.86,Cash,Want
+TX0006,2025-06-24,Transport,Metro Card,91.05,UPI,Need
+TX0007,2025-07-14,Food,Tea Point,563.07,Debit Card,Need
+TX0008,2025-08-24,Bills,,2146.23,UPI,Want
+TX0009,2025-11-18,Bills,Mobile Recharge,1923.41,UPI,Need
+TX0010,2025-12-05,Food,Cafe Aroma,244.95,Cash,Need
+TX0011,2025-07-14,Transport,Metro Card,229.78,Cash,Want
+TX0012,2025-07-01,Food,Cafe Aroma,232.18,Net Banking,Need
+TX0013,2025-10-01,Health,Fitness Center,377.78,Debit Card,Need
+TX0014,2025-12-17,Transport,PMPML Bus,273.54,Cash,Need
+TX0015,2025-06-11,Transport,Cab Ride,41.84,Debit Card,Need
+TX0016,2025-12-02,Shopping,Electronics Store,2229.01,Cash,Want
+TX0017,2025-03-13,Transport,Metro Card,205.25,Net Banking,Want
+TX0018,2025-10-26,Transport,Auto Ride,92.38,Net Banking,Want
+TX0019,2025-02-16,Health,Clinic,1563.87,Cash,Want
+TX0020,2025-11-02,Food,Food Corner,297.52,,Want
+TX0021,2025-10-11,Education,Stationery Shop,116.07,Net Banking,Want
+TX0022,2025-11-25,Transport,Auto Ride,116.86,Credit Card,Need
+TX0023,2025-05-15,Other,Miscellaneous,697.67,UPI,Want
+TX0024,2025-11-24,Shopping,Book Shop,617.44,Cash,Need
+TX0025,2025-11-03,Transport,Metro Card,26.43,Debit Card,Need
+TX0026,2025-01-30,transport,PMPML Bus,207.23,UPI,Want
+TX0027,2025-02-05,Other,General Store,502.8,Cash,Want
+TX0028,2025-10-09,Food,Tea Point,380.77,Credit Card,Need
+TX0029,2025-10-04,Health,Medical Store,1272.77,Credit Card,Want
+TX0030,2025-08-13,Other,General Store,433.76,Cash,Need
+TX0031,2025-06-23,Food,Tea Point,395.74,Cash,Need
+TX0032,2025-02-06,Entertainment,Cinema,164.76,UPI,Want
+TX0033,2025-02-06,Shopping,Electronics Store,804.42,Cash,Need
+TX0034,2025-10-20,Bills,Water Bill,685.99,Credit Card,Need
+TX0035,2025-02-18,Food,Food Corner,325.7,Credit Card,Want
+TX0036,2025-01-28,Entertainment,Cinema,1182.58,UPI,Want
+TX0037,2025-06-23,Education,Course Platform,252.98,Cash,Want
+TX0038,2025-03-13,Shopping,Online Market,804.58,UPI,Want
+TX0039,2025-10-09,Food,Tea Point,451.72,UPI,Need
+TX0040,2025-05-02,Food,,356.82,Credit Card,Need
+TX0041,2025-03-26,Transport,Metro Card,345.15,Credit Card,Want
+TX0042,2025-08-05,Entertainment,Event Tickets,903.56,Cash,Need
+TX0043,2025-06-01,Food,Tea Point,113.34,UPI,Want
+TX0044,2025-01-30,Food,Tea Point,351.77,Cash,Need
+TX0045,2025-09-18,Food,Tea Point,185.92,UPI,Need
+TX0046,2025-07-26,Food,Campus Canteen,587.46,Net Banking,Need
+TX0047,2025-11-14,Food,Tea Point,454.7,Net Banking,Want
+TX0048,2025-05-14,Food,Campus Canteen,488.23,Debit Card,Want
+TX0049,2025-03-09,Entertainment,Gaming Store,430.0,UPI,Need
+TX0050,2025-08-23,Bills,Electricity Board,1325.99,UPI,Need
+TX0051,2025-09-17,Transport,PMPML Bus,327.98,Cash,Want
+TX0052,2025-05-26,Food,Fresh Mart,555.23,Net Banking,Need
+TX0053,2025-12-08,Education,Stationery Shop,519.13,Cash,Want
+TX0054,2025-03-01,Other,General Store,681.05,upi,Want
+TX0055,2025-11-06,Food,Fresh Mart,275.44,Net Banking,Want
+TX0056,2025-05-09,Other,General Store,769.19,Credit Card,Want
+TX0057,2025-01-23,Food,Fresh Mart,519.54,Cash,Want
+TX0058,2025-10-10,Entertainment,Cinema,717.0,UPI,Need
+TX0059,2025-10-07,Food,Tea Point,290.45,Cash,Want
+TX0060,2025-03-07,Food,Cafe Aroma,287.85,Debit Card,Need
+TX0061,2025-12-16,Transport,Cab Ride,53.92,Credit Card,Need
+TX0062,2025-05-02,Education,Course Platform,1466.69,Credit Card,Need
+TX0063,2025-04-02,Health,Fitness Center,664.72,Cash,Want
+TX0064,2025-03-23,Education,Stationery Shop,251.33,Credit Card,Need
+TX0065,2025-04-13,Education,College Supplies,744.42,Cash,Need
+TX0066,2025-01-13,Entertainment,Gaming Store,538.31,UPI,Want
+TX0067,2025-06-29,Entertainment,Gaming Store,539.65,UPI,Need
+TX0068,2025-05-14,Food,Fresh Mart,628.64,UPI,Need
+TX0069,2025-11-02,Shopping,Book Shop,1862.08,Credit Card,Need
+TX0070,2025-07-17,Other,General Store,211.57,Credit Card,Need
+TX0071,2025-09-24,Other,Miscellaneous,507.68,Cash,Want
+TX0072,2025-08-09,Food,Fresh Mart,458.62,Net Banking,Want
+TX0073,2025-12-06,Education,College Supplies,1107.66,Net Banking,Want
+TX0074,2025-12-08,Transport,Metro Card,152.79,Net Banking,Need
+TX0075,2025-04-09,Shopping,Online Market,2359.85,Net Banking,Want
+TX0076,2025-07-27,Bills,Internet Provider,200.81,Cash,Want
+TX0077,2025-10-24,bills,Water Bill,844.5,Credit Card,Need
+TX0078,2025-09-19,Shopping,Online Market,2267.77,UPI,Want
+TX0079,2025-09-21,Entertainment,Cinema,781.19,Cash,Want
+TX0080,2025-04-26,Education,Stationery Shop,306.3,Cash,Want
+TX0081,2025-11-09,Education,Book Store,201.96,Net Banking,Need
+TX0082,2025-12-23,Transport,Auto Ride,151.89,UPI,Need
+TX0083,2025-08-06,Food,Tea Point,538.34,Credit Card,Need
+TX0084,2025-10-13,Transport,Fuel Station,299.95,Cash,Want
+TX0085,2025-12-08,Bills,Internet Provider,1317.85,Credit Card,Want
+TX0086,2025-10-08,Shopping,Electronics Store,524.02,Credit Card,Want
+TX0087,2025-05-07,Education,Book Store,488.24,Cash,Want
+TX0088,2025-08-14,Food,Fresh Mart,242.87,Debit Card,Want
+TX0089,2025-10-04,Food,,165.97,Cash,Need
+TX0090,2025-02-02,Shopping,Electronics Store,927.57,Credit Card,Need
+TX0091,2025-04-16,Education,Stationery Shop,645.27,Net Banking,Want
+TX0092,2025-09-02,Food,Food Corner,280.5,Credit Card,Need
+TX0093,2025-09-07,Food,Cafe Aroma,328.43,Credit Card,Want
+TX0094,2025-12-09,Entertainment,Music Subscription,544.75,Credit Card,Need
+TX0095,2025-11-15,Bills,Electricity Board,2013.86,UPI,Want
+TX0096,2025-03-11,Education,College Supplies,354.42,Credit Card,Want
+TX0097,2025-04-19,Shopping,Electronics Store,943.13,Debit Card,Want
+TX0098,2025-05-10,Education,Stationery Shop,758.43,Debit Card,Need
+TX0099,2025-11-29,Food,Cafe Aroma,625.65,UPI,Need
+TX0100,2025-04-13,Education,Course Platform,969.87,Cash,Want
+TX0101,2025-12-09,Food,Food Corner,620.22,Debit Card,Want
+TX0102,2025-03-27,Bills,Electricity Board,2127.47,Cash,Want
+TX0103,2025-02-25,Bills,Water Bill,2057.77,,Need
+TX0104,2025-02-08,Bills,Mobile Recharge,1861.14,UPI,Want
+TX0105,2025-12-17,Bills,Electricity Board,442.11,Debit Card,Want
+TX0106,2025-12-05,Transport,Metro Card,186.97,UPI,Want
+TX0107,2025-09-08,Food,Food Corner,627.65,Cash,Want
+TX0108,2025-04-01,Health,Medical Store,1741.31,Net Banking,Want
+TX0109,2025-08-27,Shopping,Book Shop,1867.91,Debit Card,Need
+TX0110,2025-02-14,Transport,Fuel Station,168.76,Net Banking,Want
+TX0111,2025-06-22,Food,Campus Canteen,565.04,Credit Card,Need
+TX0112,2025-07-01,Education,College Supplies,576.47,Net Banking,Need
+TX0113,2025-09-22,Other,Miscellaneous,122.77,Credit Card,Want
+TX0114,2025-10-12,Health,Fitness Center,1274.04,Credit Card,Need
+TX0115,2025-02-17,Transport,Auto Ride,153.45,Debit Card,Want
+TX0116,2025-08-31,Bills,Internet Provider,887.51,Debit Card,Want
+TX0117,2025-05-19,Transport,Auto Ride,96.08,Debit Card,Need
+TX0118,2025-10-02,Other,General Store,636.64,Cash,Want
+TX0119,2025-05-22,Health,Medical Store,1760.23,UPI,Need
+TX0120,2025-06-01,Food,Cafe Aroma,182.28,Net Banking,Need
+TX0121,2025-05-21,Food,Fresh Mart,,Cash,Want
+TX0122,2025-02-22,Education,Book Store,903.69,Credit Card,Want
+TX0123,2025-06-24,Food,Food Corner,109.28,UPI,Need
+TX0124,2025-07-25,Shopping,Clothing Store,1506.0,Cash,Need
+TX0125,2025-10-16,Other,General Store,122.4,UPI,Want
+TX0126,2025-11-07,Bills,Water Bill,1436.84,Credit Card,Want
+TX0127,2025-06-02,Education,College Supplies,1486.04,Net Banking,Need
+TX0128,2025-11-09,Other,General Store,134.35,Cash,Want
+TX0129,2025-12-05,Food,Tea Point,216.72,UPI,Need
+TX0130,2025-01-02,Transport,Fuel Station,247.49,Debit Card,Need
+TX0131,2025-04-29,Transport,Fuel Station,113.3,UPI,Need
+TX0132,2025-05-16,Education,Course Platform,975.08,Credit Card,Need
+TX0133,2025-10-06,Food,Fresh Mart,164.92,Cash,Need
+TX0134,2025-01-31,Food,Tea Point,255.34,Debit Card,Want
+TX0135,2025-03-05,Shopping,Electronics Store,864.61,Debit Card,Want
+TX0136,2025-08-13,Food,Food Corner,102.72,Debit Card,Want
+TX0137,2025-01-14,Food,Tea Point,628.29,Net Banking,Need
+TX0138,2025-12-11,Education,Course Platform,906.75,Credit Card,Want
+TX0139,2025-05-23,Food,Food Corner,413.64,UPI,Want
+TX0140,2025-06-28,Transport,PMPML Bus,125.95,Cash,Want
+TX0141,2025-07-30,Entertainment,Event Tickets,417.04,Net Banking,Need
+TX0142,2025-08-21,Food,Cafe Aroma,223.87,Credit Card,Need
+TX0143,2025-12-03,Education,Stationery Shop,746.77,Cash,Want
+TX0144,2025-11-15,Health,Pharmacy,1163.19,Cash,Want
+TX0145,2025-10-09,Food,Food Corner,244.18,UPI,Need
+TX0146,2025-11-19,Bills,Mobile Recharge,678.59,Debit Card,Need
+TX0147,2025-10-10,Transport,PMPML Bus,94.15,Credit Card,Need
+TX0148,2025-11-28,Education,College Supplies,797.73,Net Banking,Want
+TX0149,2025-08-01,Education,Course Platform,1472.34,Credit Card,Need
+TX0150,2025-07-16,Food,Campus Canteen,421.65,UPI,Want
+TX0151,2025-08-01,Transport,Metro Card,279.95,UPI,Want
+TX0152,2025-06-02,Education,Book Store,911.89,Cash,Want
+TX0153,2025-10-03,Shopping,Electronics Store,931.23,Credit Card,Want
+TX0154,2025-04-07,Other,Gift Shop,252.98,Cash,Want
+TX0155,2025-01-23,Transport,Fuel Station,176.08,Credit Card,Need
+TX0156,2025-09-11,Other,Miscellaneous,157.31,Debit Card,Need
+TX0157,2025-08-14,Food,Cafe Aroma,598.95,Cash,Want
+TX0158,2025-12-02,Other,Gift Shop,113.6,Debit Card,Want
+TX0159,2025-11-29,Food,Tea Point,267.28,Credit Card,Want
+TX0160,2025-11-17,Health,Pharmacy,1390.98,Net Banking,Need
+TX0161,2025-05-01,Entertainment,Music Subscription,1113.02,UPI,Want
+TX0162,2025-02-20,Health,Pharmacy,1296.61,Credit Card,Need
+TX0163,2025-12-22,Transport,Metro Card,29.55,UPI,Want
+TX0164,2025-07-03,Transport,Cab Ride,68.04,Credit Card,Need
+TX0165,2025-03-29,Food,Food Corner,427.41,Net Banking,Need
+TX0166,2025-09-12,Other,Gift Shop,171.65,Debit Card,Want
+TX0167,2025-05-11,Entertainment,Event Tickets,1088.8,Debit Card,Need
+TX0168,2025-02-07,Shopping,Book Shop,962.08,Credit Card,Want
+TX0169,2025-08-22,Education,Book Store,378.9,Credit Card,Need
+TX0170,2025-05-02,Transport,Metro Card,138.46,Debit Card,Need
+TX0171,2025-12-04,Transport,PMPML Bus,22.67,Net Banking,Want
+TX0172,2025-05-27,Health,Medical Store,491.2,Cash,Need
+TX0173,2025-11-14,Transport,Auto Ride,269.34,UPI,Need
+TX0174,2025-06-08,Education,College Supplies,146.71,Cash,Need
+TX0175,2025-06-01,Transport,Auto Ride,157.12,Cash,Want
+TX0176,2025-09-29,Shopping,Online Market,790.44,Debit Card,Want
+TX0177,2025-06-01,Health,Pharmacy,675.82,Credit Card,Need
+TX0178,2025-03-14,Health,Fitness Center,483.54,Net Banking,Want
+TX0179,2025-02-16,Education,Stationery Shop,119.49,Credit Card,Want
+TX0180,2025-12-11,Health,Fitness Center,545.67,Debit Card,Need
+TX0011,2025-07-14,Transport,Metro Card,229.78,Cash,Want
